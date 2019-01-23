@@ -1,0 +1,14 @@
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.deps.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.runtimeconfig.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.runtimeconfig.dev.json
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\bin\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.pdb
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.csprojAssemblyReference.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.RazorAssemblyInfo.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.RazorAssemblyInfo.cs
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.AssemblyInfoInputs.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.AssemblyInfo.cs
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.RazorTargetAssemblyInfo.cache
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.dll
+C:\Users\Alexander\Documents\StatlerWaldorfCorp\LocationService\src\statlerwaldorfcorp.LocationService\obj\Debug\netcoreapp2.2\statlerwaldorfcorp.LocationService.pdb
